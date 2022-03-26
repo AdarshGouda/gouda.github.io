@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Misc"
+		},
+		{
+			"path": "..\\..\\NeuralNetworkFromScratch"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Users\\User\\anaconda3\\python.exe"
+	}
+}
